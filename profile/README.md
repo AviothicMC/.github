@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AviothicMC/.github/main/logo.png" alt="image" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/AviothicMC/.github/main/logo-black.jpg" alt="image" width="300" height="auto">
 
 ## AviothicMC - Hakkımızda
 AviothicMC, Minecraft: Bedrock Edition için fantezi temalı bir hayatta kalma sunucusudur. Amacımız, Minecraft-hayatta kalma deneyiminizi başka bir boyuta taşımaktır! <br/>
