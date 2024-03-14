@@ -6,7 +6,7 @@ Yetenekli ekibimizle, her geçen gün projemizi sizin istekleriniz ve geri bildi
 
 ## Başka?
 
-- Elinizden geldiğince açık kaynak projelerimizle topluluğa katkı sağlamak için çaba gösteriyoruz
+- Elimizden geldiğince açık kaynak projelerimizle topluluğa katkı sağlamak için çaba gösteriyoruz.
 - Başta PHP, Vlang, Golang ve C++ olmak üzere bir çok farklı dil ile projelerimizi geliştiriyoruz.
 
 ## Social Media
