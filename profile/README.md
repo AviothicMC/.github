@@ -11,3 +11,7 @@ Yetenekli ekibimizle, her geçen gün projemizi sizin istekleriniz ve geri bildi
 
 ## Discord
 <a href="https://discord.gg/beCkCt5428"><img src="https://img.shields.io/discord/1216446276070150246?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
+
+
+## !IMPORTANT!
+Project moved to [@blood-pixel](https://github.com/blood-pixel)
