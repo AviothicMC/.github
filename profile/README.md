@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AviothicMC/.github/main/logo-black.jpg" alt="image" width="300" height="auto">
 
-## AviothicMC - Hakkımızda
+## AviothicMC - Hakkımızda (moved to @blood-pixel)
 AviothicMC, Minecraft: Bedrock Edition için fantezi temalı bir hayatta kalma sunucusudur. Amacımız, Minecraft-hayatta kalma deneyiminizi başka bir boyuta taşımaktır! <br/>
 Yetenekli ekibimizle, her geçen gün projemizi sizin istekleriniz ve geri bildirimleriniz doğrultusunda iyileştiriyoruz.
 
